@@ -1,1 +1,5 @@
-# maimai-resourse
+# 舞萌资源JSON开源站
+
+- 这里整理的资源是ID表一一对应名称，原始文件已经过处理，详情请看origindata。
+
+- 资源到A011
