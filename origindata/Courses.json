@@ -1,0 +1,9746 @@
+[
+  {
+    "name": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 1,
+      "str": "初段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11069,
+          "str": "太陽系デスコ"
+        },
+        "difficulty": {
+          "id": 0,
+          "str": "Basic"
+        }
+      },
+      {
+        "musicId": {
+          "id": 322,
+          "str": "林檎華憐歌"
+        },
+        "difficulty": {
+          "id": 0,
+          "str": "Basic"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11086,
+          "str": "だれかの心臓になれたなら"
+        },
+        "difficulty": {
+          "id": 0,
+          "str": "Basic"
+        }
+      },
+      {
+        "musicId": {
+          "id": 288,
+          "str": "六兆年と一夜物語"
+        },
+        "difficulty": {
+          "id": 0,
+          "str": "Basic"
+        }
+      }
+    ],
+    "life": 350,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 0,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001001"
+  },
+  {
+    "name": {
+      "id": 1002,
+      "str": "1.17_二段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 2,
+      "str": "二段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11044,
+          "str": "メルティランドナイトメア"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 311,
+          "str": "シアワセうさぎ"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 670,
+          "str": "ドーナツホール"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11081,
+          "str": "サンバランド"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      }
+    ],
+    "life": 350,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 0,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001002"
+  },
+  {
+    "name": {
+      "id": 1003,
+      "str": "1.17_三段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 3,
+      "str": "三段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11198,
+          "str": "アスノヨゾラ哨戒班"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 647,
+          "str": "エイリアンエイリアン"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11049,
+          "str": "Bad Apple!! feat.nomico (REDALiCE Remix)"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11059,
+          "str": "骸骨楽団とリリア"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      }
+    ],
+    "life": 600,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 1,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001003"
+  },
+  {
+    "name": {
+      "id": 1004,
+      "str": "1.17_四段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 4,
+      "str": "四段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 517,
+          "str": "東京リアルワールド"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11187,
+          "str": "乙女解剖"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 434,
+          "str": "フラグメンツ -T.V. maimai edit-"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11139,
+          "str": "wheel"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001004"
+  },
+  {
+    "name": {
+      "id": 1005,
+      "str": "1.17_五段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 5,
+      "str": "五段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 735,
+          "str": "Session High⤴"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11014,
+          "str": "♡マイマイマイラブ♡"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 427,
+          "str": "少女幻葬戦慄曲 ～ Necro Fantasia"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11048,
+          "str": "ナイト・オブ・ナイツ (Cranky Remix)"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001005"
+  },
+  {
+    "name": {
+      "id": 1006,
+      "str": "1.17_六段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 6,
+      "str": "六段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11017,
+          "str": "福宿音屋魂音泉"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11058,
+          "str": "デンパラダイム"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 493,
+          "str": "Imitation:Loud Lounge"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 113,
+          "str": "YA･DA･YO [Reborn]"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001006"
+  },
+  {
+    "name": {
+      "id": 1007,
+      "str": "1.17_七段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 7,
+      "str": "七段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11044,
+          "str": "メルティランドナイトメア"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 617,
+          "str": "オトヒメモリー☆ウタゲーション"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11135,
+          "str": "全力ハッピーライフ"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 138,
+          "str": "Lionheart"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001007"
+  },
+  {
+    "name": {
+      "id": 1008,
+      "str": "1.17_八段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 8,
+      "str": "八段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11147,
+          "str": "Saika"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 408,
+          "str": "クローバー♣クラブ"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11091,
+          "str": "Stardust Memories"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 464,
+          "str": "Revive The Rave"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001008"
+  },
+  {
+    "name": {
+      "id": 1009,
+      "str": "1.17_九段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 9,
+      "str": "九段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11092,
+          "str": "My My My"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 682,
+          "str": "人生リセットボタン"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11025,
+          "str": "管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 319,
+          "str": "幻想のサテライト"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 800,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001009"
+  },
+  {
+    "name": {
+      "id": 1010,
+      "str": "1.17_十段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 10,
+      "str": "十段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 566,
+          "str": "天火明命"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11207,
+          "str": "Ether Strike"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 488,
+          "str": "Lividi"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 384,
+          "str": "VERTeX"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 900,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001010"
+  },
+  {
+    "name": {
+      "id": 1101,
+      "str": "1.17_真初段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 12,
+      "str": "真初段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 1010,
+      "str": "1.17_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11010,
+          "str": "STARTLINER"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 639,
+          "str": "Starlight Dance Floor"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11001,
+          "str": "BLACK ROSE"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 136,
+          "str": "Streak"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001101"
+  },
+  {
+    "name": {
+      "id": 1102,
+      "str": "1.17_真二段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 13,
+      "str": "真二段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 1010,
+      "str": "1.17_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 820,
+          "str": "FFT"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11127,
+          "str": "グラーヴェ"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11218,
+          "str": "自傷無色"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 313,
+          "str": "待チ人ハ来ズ。"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001102"
+  },
+  {
+    "name": {
+      "id": 1103,
+      "str": "1.17_真三段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 14,
+      "str": "真三段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 1010,
+      "str": "1.17_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 466,
+          "str": "Jimang Shot"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11122,
+          "str": "アンドロイドガール"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 689,
+          "str": "Credits"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11188,
+          "str": "絶え間なく藍色"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001103"
+  },
+  {
+    "name": {
+      "id": 1104,
+      "str": "1.17_真四段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 15,
+      "str": "真四段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 1010,
+      "str": "1.17_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11028,
+          "str": "玩具狂奏曲 -終焉-"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 555,
+          "str": "GOODMEN"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11098,
+          "str": "共鳴"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 35,
+          "str": "炭★坑★節"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001104"
+  },
+  {
+    "name": {
+      "id": 1105,
+      "str": "1.17_真五段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 16,
+      "str": "真五段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 1010,
+      "str": "1.17_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11214,
+          "str": "Jörqer"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 230,
+          "str": "CYCLES"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11134,
+          "str": "ソリッド"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 114,
+          "str": "Space Harrier Main Theme [Reborn]"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001105"
+  },
+  {
+    "name": {
+      "id": 1106,
+      "str": "1.17_真六段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 17,
+      "str": "真六段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 1010,
+      "str": "1.17_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11211,
+          "str": "カラッポ・ノンフィクション"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 224,
+          "str": "ウサテイ"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11085,
+          "str": "Halcyon"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 557,
+          "str": "Last Brave ～ Go to zero"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001106"
+  },
+  {
+    "name": {
+      "id": 1107,
+      "str": "1.17_真七段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 18,
+      "str": "真七段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 1010,
+      "str": "1.17_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 465,
+          "str": "スリップフリップ"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11021,
+          "str": "魔ジョ狩リ"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 701,
+          "str": "Doll Judgment"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11212,
+          "str": "emomomo"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001107"
+  },
+  {
+    "name": {
+      "id": 1108,
+      "str": "1.17_真八段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 19,
+      "str": "真八段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 1010,
+      "str": "1.17_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11065,
+          "str": "Yakumo >>JOINT STRUGGLE (2019 Update)"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 24,
+          "str": "Sun Dance"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 823,
+          "str": "奏者はただ背中と提琴で語るのみ"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 803,
+          "str": "Schwarzschild"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001108"
+  },
+  {
+    "name": {
+      "id": 1109,
+      "str": "1.17_真九段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 20,
+      "str": "真九段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 1010,
+      "str": "1.17_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11216,
+          "str": "felys -final remix-"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 641,
+          "str": "Calamity Fortune"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11221,
+          "str": "≠彡\"/了→"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 812,
+          "str": "Alea jacta est!"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001109"
+  },
+  {
+    "name": {
+      "id": 1110,
+      "str": "1.17_真十段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 21,
+      "str": "真十段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 1010,
+      "str": "1.17_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 363,
+          "str": "Oshama Scramble!"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 825,
+          "str": "雷切-RAIKIRI-"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11102,
+          "str": "封焔の135秒"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 799,
+          "str": "QZKago Requiem"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001110"
+  },
+  {
+    "name": {
+      "id": 1111,
+      "str": "1.17_真皆传"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 22,
+      "str": "真皆伝"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 1010,
+      "str": "1.17_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11026,
+          "str": "TEmPTaTiON"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 571,
+          "str": "Our Wrenally"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11165,
+          "str": "Regulus"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 834,
+          "str": "PANDORA PARADOXXX"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 5,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course001111"
+  },
+  {
+    "name": {
+      "id": 2201,
+      "str": "1.17_EXPERT初級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 201,
+      "str": "EXPERT初級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 96,
+    "lowerLevel": 70,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course002201"
+  },
+  {
+    "name": {
+      "id": 2202,
+      "str": "1.17_EXPERT中級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 202,
+      "str": "EXPERT中級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 106,
+    "lowerLevel": 80,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 600,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course002202"
+  },
+  {
+    "name": {
+      "id": 2203,
+      "str": "1.17_EXPERT上級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 203,
+      "str": "EXPERT上級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 129,
+    "lowerLevel": 107,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 500,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course002203"
+  },
+  {
+    "name": {
+      "id": 2301,
+      "str": "1.17_MASTER初級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 301,
+      "str": "MASTER初級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 126,
+    "lowerLevel": 100,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course002301"
+  },
+  {
+    "name": {
+      "id": 2302,
+      "str": "1.17_MASTER中級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 302,
+      "str": "MASTER中級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 136,
+    "lowerLevel": 120,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 500,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course002302"
+  },
+  {
+    "name": {
+      "id": 2303,
+      "str": "1.17_MASTER上級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 303,
+      "str": "MASTER上級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 144,
+    "lowerLevel": 130,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 300,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course002303"
+  },
+  {
+    "name": {
+      "id": 2304,
+      "str": "1.17_MASTER超上級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 304,
+      "str": "MASTER超上級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 149,
+    "lowerLevel": 145,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 100,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course002304"
+  },
+  {
+    "name": {
+      "id": 251001,
+      "str": "1.25_初段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 1,
+      "str": "初段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 10552,
+          "str": "ゴーストルール"
+        },
+        "difficulty": {
+          "id": 0,
+          "str": "Basic"
+        }
+      },
+      {
+        "musicId": {
+          "id": 322,
+          "str": "林檎華憐歌"
+        },
+        "difficulty": {
+          "id": 0,
+          "str": "Basic"
+        }
+      },
+      {
+        "musicId": {
+          "id": 793,
+          "str": "ロキ"
+        },
+        "difficulty": {
+          "id": 0,
+          "str": "Basic"
+        }
+      },
+      {
+        "musicId": {
+          "id": 741,
+          "str": "インビジブル"
+        },
+        "difficulty": {
+          "id": 0,
+          "str": "Basic"
+        }
+      }
+    ],
+    "life": 350,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 0,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251001"
+  },
+  {
+    "name": {
+      "id": 251002,
+      "str": "1.25_二段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 2,
+      "str": "二段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11043,
+          "str": "メルト"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 582,
+          "str": "幽闇に目醒めしは"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 725,
+          "str": "砂の惑星 feat. HATSUNE MIKU"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 682,
+          "str": "人生リセットボタン"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      }
+    ],
+    "life": 350,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 0,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251002"
+  },
+  {
+    "name": {
+      "id": 251003,
+      "str": "1.25_三段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 3,
+      "str": "三段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11187,
+          "str": "乙女解剖"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11325,
+          "str": "テレキャスタービーボーイ"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11049,
+          "str": "Bad Apple!! feat.nomico (REDALiCE Remix)"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 10593,
+          "str": "conflict"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      }
+    ],
+    "life": 600,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 1,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251003"
+  },
+  {
+    "name": {
+      "id": 251004,
+      "str": "1.25_四段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 4,
+      "str": "四段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 311,
+          "str": "シアワセうさぎ"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11260,
+          "str": "ネガティブ進化論"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 546,
+          "str": "フォルテシモBELL"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11139,
+          "str": "wheel"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251004"
+  },
+  {
+    "name": {
+      "id": 251005,
+      "str": "1.25_五段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 5,
+      "str": "五段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11132,
+          "str": "表裏一体"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11192,
+          "str": "絶対にチョコミントを食べるアオイチャン"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11104,
+          "str": "ヤミツキ"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 548,
+          "str": "DETARAME ROCK&ROLL THEORY"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251005"
+  },
+  {
+    "name": {
+      "id": 251006,
+      "str": "1.25_六段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 6,
+      "str": "六段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 699,
+          "str": "天狗の落とし文 feat. ｙｔｒ"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 681,
+          "str": "Signature"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 113,
+          "str": "YA･DA･YO [Reborn]"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11221,
+          "str": "≠彡\"/了→"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251006"
+  },
+  {
+    "name": {
+      "id": 251007,
+      "str": "1.25_七段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 7,
+      "str": "七段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11044,
+          "str": "メルティランドナイトメア"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 242,
+          "str": "ナミダと流星"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 699,
+          "str": "天狗の落とし文 feat. ｙｔｒ"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 138,
+          "str": "Lionheart"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251007"
+  },
+  {
+    "name": {
+      "id": 251008,
+      "str": "1.25_八段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 8,
+      "str": "八段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11229,
+          "str": "スローアライズ"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 713,
+          "str": "Kinda Way"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11091,
+          "str": "Stardust Memories"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 464,
+          "str": "Revive The Rave"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251008"
+  },
+  {
+    "name": {
+      "id": 251009,
+      "str": "1.25_九段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 9,
+      "str": "九段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11092,
+          "str": "My My My"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11141,
+          "str": "energy trixxx"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 82,
+          "str": "Reach For The Stars"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 319,
+          "str": "幻想のサテライト"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 800,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251009"
+  },
+  {
+    "name": {
+      "id": 251010,
+      "str": "1.25_十段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 10,
+      "str": "十段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11164,
+          "str": "パラボラ"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 112,
+          "str": "Like the Wind [Reborn]"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11233,
+          "str": "Starry Colors"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11230,
+          "str": "チエルカ／エソテリカ"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 900,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251010"
+  },
+  {
+    "name": {
+      "id": 251101,
+      "str": "1.25_真初段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 12,
+      "str": "真初段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 251010,
+      "str": "1.25_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11010,
+          "str": "STARTLINER"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 535,
+          "str": "色は匂へど散りぬるを"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11001,
+          "str": "BLACK ROSE"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 136,
+          "str": "Streak"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251101"
+  },
+  {
+    "name": {
+      "id": 251102,
+      "str": "1.25_真二段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 13,
+      "str": "真二段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 251010,
+      "str": "1.25_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11027,
+          "str": "アポカリプスに反逆の焔を焚べろ"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11137,
+          "str": "Witches night"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 228,
+          "str": "Dreampainter"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 313,
+          "str": "待チ人ハ来ズ。"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251102"
+  },
+  {
+    "name": {
+      "id": 251103,
+      "str": "1.25_真三段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 14,
+      "str": "真三段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 251010,
+      "str": "1.25_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 434,
+          "str": "フラグメンツ -T.V. maimai edit-"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11263,
+          "str": "KING"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11167,
+          "str": "BIRTH"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11188,
+          "str": "絶え間なく藍色"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251103"
+  },
+  {
+    "name": {
+      "id": 251104,
+      "str": "1.25_真四段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 15,
+      "str": "真四段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 251010,
+      "str": "1.25_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 365,
+          "str": "ガラテアの螺旋"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 218,
+          "str": "Terminal Storm"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11153,
+          "str": "Boys O’Clock"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 35,
+          "str": "炭★坑★節"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251104"
+  },
+  {
+    "name": {
+      "id": 251105,
+      "str": "1.25_真五段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 16,
+      "str": "真五段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 251010,
+      "str": "1.25_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11231,
+          "str": "生命不詳"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 624,
+          "str": "KISS CANDY FLAVOR"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11214,
+          "str": "Jörqer"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 454,
+          "str": "After Burner"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251105"
+  },
+  {
+    "name": {
+      "id": 251106,
+      "str": "1.25_真六段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 17,
+      "str": "真六段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 251010,
+      "str": "1.25_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 252,
+          "str": "みんなのマイマイマー"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 559,
+          "str": "空威張りビヘイビア"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11158,
+          "str": "Komplexe"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 422,
+          "str": "LANCE"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251106"
+  },
+  {
+    "name": {
+      "id": 251107,
+      "str": "1.25_真七段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 18,
+      "str": "真七段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 251010,
+      "str": "1.25_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11334,
+          "str": "Upshift"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 701,
+          "str": "Doll Judgment"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 574,
+          "str": "Selector"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 141,
+          "str": "Nerverakes"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251107"
+  },
+  {
+    "name": {
+      "id": 251108,
+      "str": "1.25_真八段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 19,
+      "str": "真八段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 251010,
+      "str": "1.25_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11237,
+          "str": "蒼穹舞楽"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 24,
+          "str": "Sun Dance"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11101,
+          "str": "GRÄNDIR"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 270,
+          "str": "Outlaw's Lullaby"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251108"
+  },
+  {
+    "name": {
+      "id": 251109,
+      "str": "1.25_真九段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 20,
+      "str": "真九段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 251010,
+      "str": "1.25_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11093,
+          "str": "UniTas"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 641,
+          "str": "Calamity Fortune"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 61,
+          "str": "Beat Of Mind"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 348,
+          "str": "Axeria"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251109"
+  },
+  {
+    "name": {
+      "id": 251110,
+      "str": "1.25_真十段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 21,
+      "str": "真十段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 251010,
+      "str": "1.25_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 365,
+          "str": "ガラテアの螺旋"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11302,
+          "str": "BLACK SWAN"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11106,
+          "str": "Valsqotch"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 773,
+          "str": "SILENT BLUE"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251110"
+  },
+  {
+    "name": {
+      "id": 251111,
+      "str": "1.25_真皆传"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 22,
+      "str": "真皆伝"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 251010,
+      "str": "1.25_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11364,
+          "str": "Lia=Fail"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 571,
+          "str": "Our Wrenally"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11311,
+          "str": "躯樹の墓守"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 834,
+          "str": "PANDORA PARADOXXX"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 5,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course251111"
+  },
+  {
+    "name": {
+      "id": 252201,
+      "str": "1.25_EXPERT初級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 201,
+      "str": "EXPERT初級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 96,
+    "lowerLevel": 70,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course252201"
+  },
+  {
+    "name": {
+      "id": 252202,
+      "str": "1.25_EXPERT中級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 202,
+      "str": "EXPERT中級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 116,
+    "lowerLevel": 97,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 600,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course252202"
+  },
+  {
+    "name": {
+      "id": 252203,
+      "str": "1.25_EXPERT上級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 203,
+      "str": "EXPERT上級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 139,
+    "lowerLevel": 117,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 500,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course252203"
+  },
+  {
+    "name": {
+      "id": 252301,
+      "str": "1.25_MASTER初級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 301,
+      "str": "MASTER初級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 119,
+    "lowerLevel": 100,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course252301"
+  },
+  {
+    "name": {
+      "id": 252302,
+      "str": "1.25_MASTER中級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 302,
+      "str": "MASTER中級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 132,
+    "lowerLevel": 120,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 500,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course252302"
+  },
+  {
+    "name": {
+      "id": 252303,
+      "str": "1.25_MASTER上級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 303,
+      "str": "MASTER上級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 144,
+    "lowerLevel": 133,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 300,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course252303"
+  },
+  {
+    "name": {
+      "id": 252304,
+      "str": "1.25_MASTER超上級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 304,
+      "str": "MASTER超上級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 149,
+    "lowerLevel": 145,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 100,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course252304"
+  },
+  {
+    "name": {
+      "id": 351001,
+      "str": "1.35_初段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 1,
+      "str": "初段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11410,
+          "str": "ヴァンパイア"
+        },
+        "difficulty": {
+          "id": 0,
+          "str": "Basic"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11086,
+          "str": "だれかの心臓になれたなら"
+        },
+        "difficulty": {
+          "id": 0,
+          "str": "Basic"
+        }
+      },
+      {
+        "musicId": {
+          "id": 322,
+          "str": "林檎華憐歌"
+        },
+        "difficulty": {
+          "id": 0,
+          "str": "Basic"
+        }
+      },
+      {
+        "musicId": {
+          "id": 628,
+          "str": "光線チューニング"
+        },
+        "difficulty": {
+          "id": 0,
+          "str": "Basic"
+        }
+      }
+    ],
+    "life": 350,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 0,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351001"
+  },
+  {
+    "name": {
+      "id": 351002,
+      "str": "1.35_二段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 2,
+      "str": "二段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11486,
+          "str": "ヴィラン"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11437,
+          "str": "三妖精SAY YA!!!"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 725,
+          "str": "砂の惑星 feat. HATSUNE MIKU"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11358,
+          "str": "インドア系ならトラックメイカー"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      }
+    ],
+    "life": 350,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 0,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351002"
+  },
+  {
+    "name": {
+      "id": 351003,
+      "str": "1.35_三段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 3,
+      "str": "三段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 706,
+          "str": "シャルル"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 741,
+          "str": "インビジブル"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11230,
+          "str": "チエルカ／エソテリカ"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11472,
+          "str": "Don't Fight The Music"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      }
+    ],
+    "life": 600,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 1,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351003"
+  },
+  {
+    "name": {
+      "id": 351004,
+      "str": "1.35_四段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 4,
+      "str": "四段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 311,
+          "str": "シアワセうさぎ"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11205,
+          "str": "Dive into The Sky ～initialized～"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11239,
+          "str": "オーケー？\u3000オーライ！"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11139,
+          "str": "wheel"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351004"
+  },
+  {
+    "name": {
+      "id": 351005,
+      "str": "1.35_五段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 5,
+      "str": "五段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11083,
+          "str": "サヨナラチェーンソー"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11298,
+          "str": "トリアージ"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11333,
+          "str": "Southern Cross"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 548,
+          "str": "DETARAME ROCK&ROLL THEORY"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351005"
+  },
+  {
+    "name": {
+      "id": 351006,
+      "str": "1.35_六段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 6,
+      "str": "六段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 713,
+          "str": "Kinda Way"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 681,
+          "str": "Signature"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 705,
+          "str": "Mare Maris"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11272,
+          "str": "約束"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351006"
+  },
+  {
+    "name": {
+      "id": 351007,
+      "str": "1.35_七段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 7,
+      "str": "七段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11271,
+          "str": "再会"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 818,
+          "str": "隠然"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11003,
+          "str": "でらっくmaimai♪てんてこまい!"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 138,
+          "str": "Lionheart"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351007"
+  },
+  {
+    "name": {
+      "id": 351008,
+      "str": "1.35_八段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 8,
+      "str": "八段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11228,
+          "str": "星めぐり、果ての君へ。"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11439,
+          "str": "ジャンキーナイトタウンオーケストラ"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 426,
+          "str": "蒼空に舞え、墨染の桜"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 464,
+          "str": "Revive The Rave"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351008"
+  },
+  {
+    "name": {
+      "id": 351009,
+      "str": "1.35_九段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 9,
+      "str": "九段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11390,
+          "str": "OTOGEMA"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 386,
+          "str": "Scars of FAUNA"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 252,
+          "str": "みんなのマイマイマー"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11438,
+          "str": "Reach For The Stars (Re-Colors)"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 800,
+    "recover": 30,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351009"
+  },
+  {
+    "name": {
+      "id": 351010,
+      "str": "1.35_十段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 10,
+      "str": "十段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11466,
+          "str": "群青シグナル"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 642,
+          "str": "Justified"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11454,
+          "str": "Tricolor⁂circuS"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 379,
+          "str": "Caliburne ～Story of the Legendary sword～"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 900,
+    "recover": 30,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351010"
+  },
+  {
+    "name": {
+      "id": 351101,
+      "str": "1.35_真初段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 12,
+      "str": "真初段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 351010,
+      "str": "1.35_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11010,
+          "str": "STARTLINER"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 540,
+          "str": "泡沫、哀のまほろば"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 229,
+          "str": "ぐるぐるWASH！コインランドリー・ディスコ"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 136,
+          "str": "Streak"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351101"
+  },
+  {
+    "name": {
+      "id": 351102,
+      "str": "1.35_真二段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 13,
+      "str": "真二段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 351010,
+      "str": "1.35_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 632,
+          "str": "Ultranova"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 603,
+          "str": "その群青が愛しかったようだった"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 110,
+          "str": "Quartet Theme [Reborn]"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 655,
+          "str": "フラジール"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351102"
+  },
+  {
+    "name": {
+      "id": 351103,
+      "str": "1.35_真三段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 14,
+      "str": "真三段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 351010,
+      "str": "1.35_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11100,
+          "str": "シエルブルーマルシェ"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11263,
+          "str": "KING"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 142,
+          "str": "Black Out"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11188,
+          "str": "絶え間なく藍色"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351103"
+  },
+  {
+    "name": {
+      "id": 351104,
+      "str": "1.35_真四段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 15,
+      "str": "真四段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 351010,
+      "str": "1.35_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 849,
+          "str": "Kattobi KEIKYU Rider"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 794,
+          "str": "Money Money"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11105,
+          "str": "ワードワードワード"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 113,
+          "str": "YA･DA･YO [Reborn]"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351104"
+  },
+  {
+    "name": {
+      "id": 351105,
+      "str": "1.35_真五段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 16,
+      "str": "真五段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 351010,
+      "str": "1.35_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11427,
+          "str": "Define"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11134,
+          "str": "ソリッド"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 681,
+          "str": "Signature"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 673,
+          "str": "咲キ誇レ常世ノ華"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351105"
+  },
+  {
+    "name": {
+      "id": 351106,
+      "str": "1.35_真六段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 17,
+      "str": "真六段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 351010,
+      "str": "1.35_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 132,
+          "str": "Turn around"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11211,
+          "str": "カラッポ・ノンフィクション"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11445,
+          "str": "遺伝子レベル∞スパイラル"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11395,
+          "str": "Jouez Avec Moi?"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351106"
+  },
+  {
+    "name": {
+      "id": 351107,
+      "str": "1.35_真七段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 18,
+      "str": "真七段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 351010,
+      "str": "1.35_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11460,
+          "str": "Neon Kingdom"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 701,
+          "str": "Doll Judgment"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 339,
+          "str": "DRAGONLADY"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11491,
+          "str": "Luminaria"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351107"
+  },
+  {
+    "name": {
+      "id": 351108,
+      "str": "1.35_真八段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 19,
+      "str": "真八段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 351010,
+      "str": "1.35_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 24,
+          "str": "Sun Dance"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 556,
+          "str": "夜明けまであと３秒"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11467,
+          "str": "Beat Opera op.1"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 760,
+          "str": "Ragnarok"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351108"
+  },
+  {
+    "name": {
+      "id": 351109,
+      "str": "1.35_真九段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 20,
+      "str": "真九段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 351010,
+      "str": "1.35_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 641,
+          "str": "Calamity Fortune"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11461,
+          "str": "#狂った民族２ PRAVARGYAZOOQA"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 367,
+          "str": "Dragoon"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11167,
+          "str": "BIRTH"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351109"
+  },
+  {
+    "name": {
+      "id": 351110,
+      "str": "1.35_真十段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 21,
+      "str": "真十段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 351010,
+      "str": "1.35_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11029,
+          "str": "Titania"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 852,
+          "str": "TiamaT:F minor"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11388,
+          "str": "チューリングの跡"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 22,
+          "str": "In Chaos"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351110"
+  },
+  {
+    "name": {
+      "id": 351111,
+      "str": "1.35_真皆传"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 22,
+      "str": "真皆伝"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 351010,
+      "str": "1.35_十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11470,
+          "str": "康莊大道"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 812,
+          "str": "Alea jacta est!"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11311,
+          "str": "躯樹の墓守"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11379,
+          "str": "sølips"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 5,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351111"
+  },
+  {
+    "name": {
+      "id": 351112,
+      "str": "1.35_里皆传"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 23,
+      "str": "裏皆伝"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 351111,
+      "str": "1.35_真皆传"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 833,
+          "str": "the EmpErroR"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 803,
+          "str": "Schwarzschild"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 799,
+          "str": "QZKago Requiem"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 834,
+          "str": "PANDORA PARADOXXX"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      }
+    ],
+    "life": 10,
+    "recover": 0,
+    "perfectDamage": 0,
+    "greatDamage": 1,
+    "goodDamage": 3,
+    "missDamage": 10,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course351112"
+  },
+  {
+    "name": {
+      "id": 352201,
+      "str": "1.35_EXPERT初級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 201,
+      "str": "EXPERT初級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 96,
+    "lowerLevel": 70,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course352201"
+  },
+  {
+    "name": {
+      "id": 352202,
+      "str": "1.35_EXPERT中級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 202,
+      "str": "EXPERT中級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 116,
+    "lowerLevel": 97,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 600,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course352202"
+  },
+  {
+    "name": {
+      "id": 352203,
+      "str": "1.35_EXPERT上級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 203,
+      "str": "EXPERT上級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 126,
+    "lowerLevel": 117,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 500,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course352203"
+  },
+  {
+    "name": {
+      "id": 352204,
+      "str": "1.35_EXPERT超上級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 204,
+      "str": "EXPERT超上級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 139,
+    "lowerLevel": 127,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 400,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course352204"
+  },
+  {
+    "name": {
+      "id": 352301,
+      "str": "1.35_MASTER初級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 301,
+      "str": "MASTER初級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 119,
+    "lowerLevel": 100,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course352301"
+  },
+  {
+    "name": {
+      "id": 352302,
+      "str": "1.35_MASTER中級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 302,
+      "str": "MASTER中級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 132,
+    "lowerLevel": 120,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      }
+    ],
+    "life": 500,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course352302"
+  },
+  {
+    "name": {
+      "id": 352303,
+      "str": "1.35_MASTER上級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 303,
+      "str": "MASTER上級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 144,
+    "lowerLevel": 133,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      }
+    ],
+    "life": 300,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course352303"
+  },
+  {
+    "name": {
+      "id": 352304,
+      "str": "1.35_MASTER超上級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 304,
+      "str": "MASTER超上級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 149,
+    "lowerLevel": 145,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      }
+    ],
+    "life": 100,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "dataName": "course352304"
+  },
+  {
+    "name": {
+      "id": 451001,
+      "str": "初段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 1,
+      "str": "初段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11558,
+          "str": "神っぽいな"
+        },
+        "difficulty": {
+          "id": 0,
+          "str": "Basic"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11086,
+          "str": "だれかの心臓になれたなら"
+        },
+        "difficulty": {
+          "id": 0,
+          "str": "Basic"
+        }
+      },
+      {
+        "musicId": {
+          "id": 404,
+          "str": "響縁"
+        },
+        "difficulty": {
+          "id": 0,
+          "str": "Basic"
+        }
+      },
+      {
+        "musicId": {
+          "id": 628,
+          "str": "光線チューニング"
+        },
+        "difficulty": {
+          "id": 0,
+          "str": "Basic"
+        }
+      }
+    ],
+    "life": 350,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 0,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451001"
+  },
+  {
+    "name": {
+      "id": 451002,
+      "str": "二段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 2,
+      "str": "二段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11115,
+          "str": "だから僕は音楽を辞めた"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11437,
+          "str": "三妖精SAY YA!!!"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11447,
+          "str": "エゴロック"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11185,
+          "str": "命に嫌われている"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      }
+    ],
+    "life": 350,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 0,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451002"
+  },
+  {
+    "name": {
+      "id": 451003,
+      "str": "三段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 3,
+      "str": "三段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11325,
+          "str": "テレキャスタービーボーイ"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 647,
+          "str": "エイリアンエイリアン"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11578,
+          "str": "PUPA"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11472,
+          "str": "Don't Fight The Music"
+        },
+        "difficulty": {
+          "id": 1,
+          "str": "Advanced"
+        }
+      }
+    ],
+    "life": 600,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 1,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451003"
+  },
+  {
+    "name": {
+      "id": 451004,
+      "str": "四段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 4,
+      "str": "四段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11188,
+          "str": "絶え間なく藍色"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11558,
+          "str": "神っぽいな"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11137,
+          "str": "Witches night"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11488,
+          "str": "スカーレット警察のゲットーパトロール24時"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451004"
+  },
+  {
+    "name": {
+      "id": 451005,
+      "str": "五段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 5,
+      "str": "五段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 418,
+          "str": "welcome to maimai!! with マイマイマー"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11608,
+          "str": "NOIZY BOUNCE"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11333,
+          "str": "Southern Cross"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 548,
+          "str": "DETARAME ROCK&ROLL THEORY"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451005"
+  },
+  {
+    "name": {
+      "id": 451006,
+      "str": "六段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 6,
+      "str": "六段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11591,
+          "str": "ULTRA SYNERGY MATRIX"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 681,
+          "str": "Signature"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11596,
+          "str": "Vallista"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11272,
+          "str": "約束"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451006"
+  },
+  {
+    "name": {
+      "id": 451007,
+      "str": "七段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 7,
+      "str": "七段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11271,
+          "str": "再会"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11009,
+          "str": "STEREOSCAPE"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 782,
+          "str": "おねがいダーリン"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11609,
+          "str": "サンバディ！"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451007"
+  },
+  {
+    "name": {
+      "id": 451008,
+      "str": "八段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 8,
+      "str": "八段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11161,
+          "str": "オリフィス"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11499,
+          "str": "マーシャル・マキシマイザー"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11465,
+          "str": "ピリオドサイン"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11447,
+          "str": "エゴロック"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451008"
+  },
+  {
+    "name": {
+      "id": 451009,
+      "str": "九段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 9,
+      "str": "九段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11383,
+          "str": "Irresistible"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 464,
+          "str": "Revive The Rave"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11514,
+          "str": "Lost Desire"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11455,
+          "str": "[X]"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 800,
+    "recover": 30,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451009"
+  },
+  {
+    "name": {
+      "id": 451010,
+      "str": "十段"
+    },
+    "courseMode": {
+      "id": 1,
+      "str": "段位认定"
+    },
+    "baseDaniId": {
+      "id": 10,
+      "str": "十段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 840,
+          "str": "Imperishable Night 2006 (2016 Refine)"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11541,
+          "str": "宵の鳥"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11575,
+          "str": "僕の和風本当上手"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 379,
+          "str": "Caliburne ～Story of the Legendary sword～"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 900,
+    "recover": 30,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451010"
+  },
+  {
+    "name": {
+      "id": 451101,
+      "str": "真初段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 12,
+      "str": "真初段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 451010,
+      "str": "十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11010,
+          "str": "STARTLINER"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11008,
+          "str": "Crazy Circle"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 586,
+          "str": "永遠のメロディ"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 136,
+          "str": "Streak"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451101"
+  },
+  {
+    "name": {
+      "id": 451102,
+      "str": "真二段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 13,
+      "str": "真二段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 451010,
+      "str": "十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 791,
+          "str": "ロールプレイングゲーム"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11572,
+          "str": "tape/stop/night"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11472,
+          "str": "Don't Fight The Music"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 832,
+          "str": "命ばっかり"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451102"
+  },
+  {
+    "name": {
+      "id": 451103,
+      "str": "真三段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 14,
+      "str": "真三段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 451010,
+      "str": "十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11500,
+          "str": "秋の未確認生物"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11226,
+          "str": "時計の国のジェミニ"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 239,
+          "str": "System “Z”"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11608,
+          "str": "NOIZY BOUNCE"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451103"
+  },
+  {
+    "name": {
+      "id": 451104,
+      "str": "真四段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 15,
+      "str": "真四段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 451010,
+      "str": "十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11435,
+          "str": "大輪の魂 (feat. AO, 司芭扶)"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 581,
+          "str": "ねぇ、壊れタ人形ハ何処へ棄テらレるノ？"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11555,
+          "str": "ヒバリ"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 453,
+          "str": "Garden Of The Dragon"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451104"
+  },
+  {
+    "name": {
+      "id": 451105,
+      "str": "真五段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 16,
+      "str": "真五段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 451010,
+      "str": "十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11427,
+          "str": "Define"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 218,
+          "str": "Terminal Storm"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11214,
+          "str": "Jörqer"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 299,
+          "str": "ロストワンの号哭"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451105"
+  },
+  {
+    "name": {
+      "id": 451106,
+      "str": "真六段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 17,
+      "str": "真六段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 451010,
+      "str": "十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 800,
+          "str": "EVERGREEN"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11616,
+          "str": "my flow"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11204,
+          "str": "Sweet Requiem"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11296,
+          "str": "とびだせ！TO THE COSMIC!!"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451106"
+  },
+  {
+    "name": {
+      "id": 451107,
+      "str": "真七段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 18,
+      "str": "真七段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 451010,
+      "str": "十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11211,
+          "str": "カラッポ・ノンフィクション"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 701,
+          "str": "Doll Judgment"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11140,
+          "str": "Black Lair"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 740,
+          "str": "ULTRA B+K"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451107"
+  },
+  {
+    "name": {
+      "id": 451108,
+      "str": "真八段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 19,
+      "str": "真八段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 451010,
+      "str": "十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 24,
+          "str": "Sun Dance"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11509,
+          "str": "NightTheater"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 446,
+          "str": "GEMINI -M-"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 803,
+          "str": "Schwarzschild"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451108"
+  },
+  {
+    "name": {
+      "id": 451109,
+      "str": "真九段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 20,
+      "str": "真九段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 451010,
+      "str": "十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 301,
+          "str": "患部で止まってすぐ溶ける～狂気の優曇華院"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11386,
+          "str": "Swift Swing"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11300,
+          "str": "U&iVERSE -銀河鸞翔-"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11378,
+          "str": "Strive against fate"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451109"
+  },
+  {
+    "name": {
+      "id": 451110,
+      "str": "真十段"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 21,
+      "str": "真十段"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 451010,
+      "str": "十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 365,
+          "str": "ガラテアの螺旋"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11307,
+          "str": "Yorugao"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11374,
+          "str": "GIGANTØMAKHIA"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 643,
+          "str": "Excalibur ～Revived resolution～"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 10,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451110"
+  },
+  {
+    "name": {
+      "id": 451111,
+      "str": "真皆传"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 22,
+      "str": "真皆伝"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 451010,
+      "str": "十段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 11165,
+          "str": "Regulus"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11537,
+          "str": "Straight into the lights"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11394,
+          "str": "World's end loneliness"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11379,
+          "str": "sølips"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      }
+    ],
+    "life": 50,
+    "recover": 5,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451111"
+  },
+  {
+    "name": {
+      "id": 451112,
+      "str": "里皆传"
+    },
+    "courseMode": {
+      "id": 2,
+      "str": "真段位认定"
+    },
+    "baseDaniId": {
+      "id": 23,
+      "str": "裏皆伝"
+    },
+    "baseCourseId": {
+      "id": 0,
+      "str": "未使用"
+    },
+    "fileName": "",
+    "isRandom": false,
+    "upperLevel": 0,
+    "lowerLevel": 0,
+    "isLock": true,
+    "conditionsUnlockCourse": {
+      "id": 451111,
+      "str": "真皆传"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 834,
+          "str": "PANDORA PARADOXXX"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11612,
+          "str": "Latent Kingdom"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11662,
+          "str": "raputa"
+        },
+        "difficulty": {
+          "id": 3,
+          "str": "Master"
+        }
+      },
+      {
+        "musicId": {
+          "id": 11663,
+          "str": "系ぎて"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      }
+    ],
+    "life": 10,
+    "recover": 0,
+    "perfectDamage": 0,
+    "greatDamage": 1,
+    "goodDamage": 3,
+    "missDamage": 10,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course451112"
+  },
+  {
+    "name": {
+      "id": 452201,
+      "str": "EXPERT初級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 201,
+      "str": "EXPERT初級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 96,
+    "lowerLevel": 70,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course452201"
+  },
+  {
+    "name": {
+      "id": 452202,
+      "str": "EXPERT中級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 202,
+      "str": "EXPERT中級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 116,
+    "lowerLevel": 97,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 600,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course452202"
+  },
+  {
+    "name": {
+      "id": 452203,
+      "str": "EXPERT上級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 203,
+      "str": "EXPERT上級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 126,
+    "lowerLevel": 117,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 500,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course452203"
+  },
+  {
+    "name": {
+      "id": 452204,
+      "str": "EXPERT超上級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 204,
+      "str": "EXPERT超上級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 139,
+    "lowerLevel": 127,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 2,
+          "str": "Expert"
+        }
+      }
+    ],
+    "life": 400,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course452204"
+  },
+  {
+    "name": {
+      "id": 452301,
+      "str": "MASTER初級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 301,
+      "str": "MASTER初級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 119,
+    "lowerLevel": 100,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      }
+    ],
+    "life": 700,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course452301"
+  },
+  {
+    "name": {
+      "id": 452302,
+      "str": "MASTER中級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 302,
+      "str": "MASTER中級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 132,
+    "lowerLevel": 120,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      }
+    ],
+    "life": 500,
+    "recover": 50,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course452302"
+  },
+  {
+    "name": {
+      "id": 452303,
+      "str": "MASTER上級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 303,
+      "str": "MASTER上級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 144,
+    "lowerLevel": 133,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      }
+    ],
+    "life": 300,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 2,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course452303"
+  },
+  {
+    "name": {
+      "id": 452304,
+      "str": "MASTER超上級"
+    },
+    "courseMode": {
+      "id": 3,
+      "str": "随机段位认定"
+    },
+    "baseDaniId": {
+      "id": 0,
+      "str": "初心者"
+    },
+    "baseCourseId": {
+      "id": 304,
+      "str": "MASTER超上級"
+    },
+    "fileName": "",
+    "isRandom": true,
+    "upperLevel": 149,
+    "lowerLevel": 145,
+    "isLock": false,
+    "conditionsUnlockCourse": {
+      "id": 1001,
+      "str": "1.17_初段"
+    },
+    "courseMusicData": [
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      },
+      {
+        "musicId": {
+          "id": 8,
+          "str": "True Love Song"
+        },
+        "difficulty": {
+          "id": 4,
+          "str": "ReMaster"
+        }
+      }
+    ],
+    "life": 100,
+    "recover": 20,
+    "perfectDamage": 0,
+    "greatDamage": 2,
+    "goodDamage": 3,
+    "missDamage": 5,
+    "eventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "dataName": "course452304"
+  }
+]

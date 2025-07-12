@@ -1,0 +1,8384 @@
+[
+  {
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "releaseTagName": {
+      "id": 501,
+      "str": "Ver1.05.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": true,
+    "normText": "はじめから所持",
+    "naviChara": {
+      "id": 0,
+      "str": "でらっくま"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000001.png",
+    "thumbnailName": "Partner/UI_Partner_000001.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 0,
+    "dataName": "partner000001"
+  },
+  {
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "releaseTagName": {
+      "id": 501,
+      "str": "Ver1.05.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 11,
+      "str": "乙姫"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "乙姫のスタンプを10個集める",
+    "naviChara": {
+      "id": 1,
+      "str": "乙姫"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000011.png",
+    "thumbnailName": "Partner/UI_Partner_000011.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 2,
+    "dataName": "partner000011"
+  },
+  {
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "releaseTagName": {
+      "id": 501,
+      "str": "Ver1.05.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 12,
+      "str": "ラズ"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "ラズのスタンプを10個集める",
+    "naviChara": {
+      "id": 2,
+      "str": "ラズ"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000012.png",
+    "thumbnailName": "Partner/UI_Partner_000012.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 3,
+    "dataName": "partner000012"
+  },
+  {
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "releaseTagName": {
+      "id": 501,
+      "str": "Ver1.05.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 13,
+      "str": "シフォン"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "シフォンのスタンプを10個集める",
+    "naviChara": {
+      "id": 3,
+      "str": "シフォン"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000013.png",
+    "thumbnailName": "Partner/UI_Partner_000013.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 4,
+    "dataName": "partner000013"
+  },
+  {
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "releaseTagName": {
+      "id": 501,
+      "str": "Ver1.05.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 14,
+      "str": "ソルト"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "ソルトのスタンプを10個集める",
+    "naviChara": {
+      "id": 4,
+      "str": "ソルト"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000014.png",
+    "thumbnailName": "Partner/UI_Partner_000014.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 5,
+    "dataName": "partner000014"
+  },
+  {
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "releaseTagName": {
+      "id": 501,
+      "str": "Ver1.05.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 15,
+      "str": "しゃま"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "しゃまのスタンプを10個集める",
+    "naviChara": {
+      "id": 5,
+      "str": "しゃま"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000015.png",
+    "thumbnailName": "Partner/UI_Partner_000015.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 6,
+    "dataName": "partner000015"
+  },
+  {
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "releaseTagName": {
+      "id": 501,
+      "str": "Ver1.05.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 16,
+      "str": "みるく"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "みるくのスタンプを10個集める",
+    "naviChara": {
+      "id": 6,
+      "str": "みるく"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000016.png",
+    "thumbnailName": "Partner/UI_Partner_000016.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 7,
+    "dataName": "partner000016"
+  },
+  {
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "releaseTagName": {
+      "id": 1001,
+      "str": "Ver1.10.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 17,
+      "str": "らいむっくま＆れもんっくま"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": true,
+    "normText": "はじめから所持",
+    "naviChara": {
+      "id": 7,
+      "str": "らいむっくま＆れもんっくま"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000017.png",
+    "thumbnailName": "Partner/UI_Partner_000017.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 1,
+    "dataName": "partner000017"
+  },
+  {
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "releaseTagName": {
+      "id": 1501,
+      "str": "Ver1.15.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 18,
+      "str": "乙姫（すぷらっしゅ）"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "乙姫（すぷらっしゅ）のスタンプを10個集める",
+    "naviChara": {
+      "id": 8,
+      "str": "乙姫（すぷらっしゅ）"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000018.png",
+    "thumbnailName": "Partner/UI_Partner_000018.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 8,
+    "dataName": "partner000018"
+  },
+  {
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "releaseTagName": {
+      "id": 2001,
+      "str": "Ver1.20.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 19,
+      "str": "しゃま（ゆにばーす）"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "しゃま（ゆにばーす）のスタンプを10個集める",
+    "naviChara": {
+      "id": 9,
+      "str": "しゃま（ゆにばーす）"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000019.png",
+    "thumbnailName": "Partner/UI_Partner_000019.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 9,
+    "dataName": "partner000019"
+  },
+  {
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "releaseTagName": {
+      "id": 2001,
+      "str": "Ver1.20.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 20,
+      "str": "みるく（ゆにばーす）"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "みるく（ゆにばーす）のスタンプを10個集める",
+    "naviChara": {
+      "id": 10,
+      "str": "みるく（ゆにばーす）"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000020.png",
+    "thumbnailName": "Partner/UI_Partner_000020.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 10,
+    "dataName": "partner000020"
+  },
+  {
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "releaseTagName": {
+      "id": 2501,
+      "str": "Ver1.25.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 21,
+      "str": "ちびみるく"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "ちびみるくのスタンプを10個集める",
+    "naviChara": {
+      "id": 11,
+      "str": "ちびみるく"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000021.png",
+    "thumbnailName": "Partner/UI_Partner_000021.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 11,
+    "dataName": "partner000021"
+  },
+  {
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "releaseTagName": {
+      "id": 2501,
+      "str": "Ver1.25.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 22,
+      "str": "百合咲ミカ"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "百合咲ミカのスタンプを10個集める",
+    "naviChara": {
+      "id": 12,
+      "str": "百合咲ミカ"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000022.png",
+    "thumbnailName": "Partner/UI_Partner_000022.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 12,
+    "dataName": "partner000022"
+  },
+  {
+    "netOpenName": {
+      "id": 240112,
+      "str": "Net240112"
+    },
+    "releaseTagName": {
+      "id": 3001,
+      "str": "Ver1.30.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 23,
+      "str": "ラズ（ふぇすてぃばる）"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "ラズ（ふぇすてぃばる）のスタンプを10個集める",
+    "naviChara": {
+      "id": 13,
+      "str": "ラズ（ふぇすてぃばる）"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000023.png",
+    "thumbnailName": "Partner/UI_Partner_000023.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 13,
+    "dataName": "partner000023"
+  },
+  {
+    "netOpenName": {
+      "id": 240112,
+      "str": "Net240112"
+    },
+    "releaseTagName": {
+      "id": 3001,
+      "str": "Ver1.30.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 24,
+      "str": "シフォン（ふぇすてぃばる）"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "シフォン（ふぇすてぃばる）のスタンプを10個集める",
+    "naviChara": {
+      "id": 14,
+      "str": "シフォン（ふぇすてぃばる）"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000024.png",
+    "thumbnailName": "Partner/UI_Partner_000024.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 14,
+    "dataName": "partner000024"
+  },
+  {
+    "netOpenName": {
+      "id": 240112,
+      "str": "Net240112"
+    },
+    "releaseTagName": {
+      "id": 3001,
+      "str": "Ver1.30.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 25,
+      "str": "ソルト（ふぇすてぃばる）"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "ソルト（ふぇすてぃばる）のスタンプを10個集める",
+    "naviChara": {
+      "id": 15,
+      "str": "ソルト（ふぇすてぃばる）"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000025.png",
+    "thumbnailName": "Partner/UI_Partner_000025.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 15,
+    "dataName": "partner000025"
+  },
+  {
+    "netOpenName": {
+      "id": 240606,
+      "str": "Net240606"
+    },
+    "releaseTagName": {
+      "id": 3501,
+      "str": "Ver1.35.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 26,
+      "str": "黒姫"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "黒姫のスタンプを10個集める",
+    "naviChara": {
+      "id": 16,
+      "str": "黒姫"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000026.png",
+    "thumbnailName": "Partner/UI_Partner_000026.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 16,
+    "dataName": "partner000026"
+  },
+  {
+    "netOpenName": {
+      "id": 240724,
+      "str": "Net240724"
+    },
+    "releaseTagName": {
+      "id": 4001,
+      "str": "Ver1.40.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 27,
+      "str": "ずんだもん"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "ずんだもんのスタンプを5個集める",
+    "naviChara": {
+      "id": 17,
+      "str": "ずんだもん"
+    },
+    "dispCond": 1,
+    "isCopyright": true,
+    "partnerRoomEntryVoice": "なし",
+    "intimateUpVoice01": "なし",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000027.png",
+    "thumbnailName": "Partner/UI_Partner_000027.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 17,
+    "dataName": "partner000027"
+  },
+  {
+    "netOpenName": {
+      "id": 241204,
+      "str": "Net241204"
+    },
+    "releaseTagName": {
+      "id": 4001,
+      "str": "Ver1.40.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 28,
+      "str": "乙姫（ばでぃーず）"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "乙姫（ばでぃーず）のスタンプを10個集める",
+    "naviChara": {
+      "id": 18,
+      "str": "乙姫（ばでぃーず）"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000028.png",
+    "thumbnailName": "Partner/UI_Partner_000028.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 18,
+    "dataName": "partner000028"
+  },
+  {
+    "netOpenName": {
+      "id": 241204,
+      "str": "Net241204"
+    },
+    "releaseTagName": {
+      "id": 4001,
+      "str": "Ver1.40.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 29,
+      "str": "らいむっくま＆れもんっくま（ばでぃーず）"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "らいむっくま＆れもんっくま（ばでぃーず）のスタンプを10個集める",
+    "naviChara": {
+      "id": 19,
+      "str": "らいむっくま＆れもんっくま（ばでぃーず）"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000029.png",
+    "thumbnailName": "Partner/UI_Partner_000029.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 19,
+    "dataName": "partner000029"
+  },
+  {
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "releaseTagName": {
+      "id": 4501,
+      "str": "Ver1.45.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 30,
+      "str": "ラズ（ばでぃーず）"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "ラズ（ばでぃーず）のスタンプを10個集める",
+    "naviChara": {
+      "id": 20,
+      "str": "ラズ（ばでぃーず）"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000030.png",
+    "thumbnailName": "Partner/UI_Partner_000030.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 20,
+    "dataName": "partner000030"
+  },
+  {
+    "netOpenName": {
+      "id": 251224,
+      "str": "Net251224"
+    },
+    "releaseTagName": {
+      "id": 5001,
+      "str": "Ver1.50.00"
+    },
+    "disable": false,
+    "eventName": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "name": {
+      "id": 31,
+      "str": "ソルト（ぷりずむ）"
+    },
+    "genre": {
+      "id": 99,
+      "str": "ALL"
+    },
+    "isDefault": false,
+    "normText": "ソルト（ぷりずむ）のスタンプを10個集める",
+    "naviChara": {
+      "id": 21,
+      "str": "ソルト（ぷりずむ）"
+    },
+    "dispCond": 0,
+    "isCopyright": false,
+    "partnerRoomEntryVoice": "VO_000265",
+    "intimateUpVoice01": "VO_000266",
+    "intimateUpVoice02": "なし",
+    "intimateUpVoice03": "なし",
+    "rareType": 0,
+    "relConds": {
+      "category": 0,
+      "condition0": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition1": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition2": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition3": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      },
+      "condition4": {
+        "kindTrack": 0,
+        "kindCredit": 0,
+        "kindTotal": 0,
+        "partnerId": {
+          "id": 1,
+          "str": "でらっくま"
+        },
+        "titleId": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "plateId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "iconId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "frameId": {
+          "id": 1,
+          "str": "デフォルト"
+        },
+        "charaId": {
+          "id": 101,
+          "str": "でらっくま"
+        },
+        "mapId": {
+          "id": 0,
+          "str": "なし"
+        },
+        "musicId": {
+          "id": 0,
+          "str": "【使用禁止】チュートリアル（既存）"
+        },
+        "musicGroupId": {
+          "id": 0,
+          "str": ""
+        },
+        "musicGenreId": {
+          "id": 1,
+          "str": "新曲"
+        },
+        "hiSpeedTapTouchId": 0,
+        "hiSpeedSlideId": 10,
+        "mirrorModeId": 0,
+        "oldGradeId": 0,
+        "gradeId": 0,
+        "rankId": 0,
+        "satelliteId": 0,
+        "difficultyId": 0,
+        "todohukenId": 0,
+        "param": 0,
+        "fcId": 0,
+        "syncId": 0,
+        "deluxeScoreId": 0,
+        "moviebrightnessID": 0,
+        "allEquipTitles": {
+          "list": []
+        },
+        "matchingUserTitle": {
+          "id": 1,
+          "str": "新人出道"
+        },
+        "boolParam": false
+      }
+    },
+    "fileName": "Partner/UI_Partner_000031.png",
+    "thumbnailName": "Partner/UI_Partner_000031.png",
+    "isNew": false,
+    "isHave": false,
+    "isFavourite": false,
+    "priority": 21,
+    "dataName": "partner000031"
+  }
+]

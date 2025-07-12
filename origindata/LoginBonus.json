@@ -1,0 +1,4058 @@
+[
+  {
+    "name": {
+      "id": 1,
+      "str": "パートナー：乙姫"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 11,
+      "str": "乙姫"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 14,
+    "dataName": "LoginBonus000001"
+  },
+  {
+    "name": {
+      "id": 2,
+      "str": "パートナー：ラズ"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 12,
+      "str": "ラズ"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 15,
+    "dataName": "LoginBonus000002"
+  },
+  {
+    "name": {
+      "id": 3,
+      "str": "パートナー：シフォン"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 13,
+      "str": "シフォン"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 16,
+    "dataName": "LoginBonus000003"
+  },
+  {
+    "name": {
+      "id": 4,
+      "str": "パートナー：ソルト"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 14,
+      "str": "ソルト"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 17,
+    "dataName": "LoginBonus000004"
+  },
+  {
+    "name": {
+      "id": 5,
+      "str": "パートナー：しゃま"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 15,
+      "str": "しゃま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 18,
+    "dataName": "LoginBonus000005"
+  },
+  {
+    "name": {
+      "id": 6,
+      "str": "パートナー：みるく"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 16,
+      "str": "みるく"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 19,
+    "dataName": "LoginBonus000006"
+  },
+  {
+    "name": {
+      "id": 7,
+      "str": "パートナー：乙姫（すぷらっしゅ）"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 18,
+      "str": "乙姫（すぷらっしゅ）"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "priority": 13,
+    "dataName": "LoginBonus000007"
+  },
+  {
+    "name": {
+      "id": 8,
+      "str": "パートナー：しゃま（ゆにばーす）"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 19,
+      "str": "しゃま（ゆにばーす）"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "priority": 11,
+    "dataName": "LoginBonus000008"
+  },
+  {
+    "name": {
+      "id": 9,
+      "str": "パートナー：みるく（ゆにばーす）"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 20,
+      "str": "みるく（ゆにばーす）"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "priority": 12,
+    "dataName": "LoginBonus000009"
+  },
+  {
+    "name": {
+      "id": 10,
+      "str": "フレーム：黒姫"
+    },
+    "BonusType": 6,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 159501,
+      "str": "黒姫"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 75,
+    "dataName": "LoginBonus000010"
+  },
+  {
+    "name": {
+      "id": 11,
+      "str": "フレーム：百合咲ミカ"
+    },
+    "BonusType": 6,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 159502,
+      "str": "百合咲ミカ"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 76,
+    "dataName": "LoginBonus000011"
+  },
+  {
+    "name": {
+      "id": 12,
+      "str": "アイコン：UNiVERSE"
+    },
+    "BonusType": 5,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 209501,
+      "str": "UNiVERSE"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 5,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 60,
+    "dataName": "LoginBonus000012"
+  },
+  {
+    "name": {
+      "id": 14,
+      "str": "ネームプレート：はっぴー（ゆにばーす）"
+    },
+    "BonusType": 4,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 209502,
+      "str": "はっぴー（ゆにばーす）"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 63,
+    "dataName": "LoginBonus000014"
+  },
+  {
+    "name": {
+      "id": 15,
+      "str": "フレーム：ここからはじまるプロローグ。"
+    },
+    "BonusType": 6,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 209504,
+      "str": "ここからはじまるプロローグ。"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 73,
+    "dataName": "LoginBonus000015"
+  },
+  {
+    "name": {
+      "id": 16,
+      "str": "フレーム：モ゜ルモ゜ル"
+    },
+    "BonusType": 6,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 209506,
+      "str": "モ゜ルモ゜ル"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 74,
+    "dataName": "LoginBonus000016"
+  },
+  {
+    "name": {
+      "id": 17,
+      "str": "でらっくす譜面：ゴーストルール"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10552,
+      "str": "ゴーストルール"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 52,
+    "dataName": "LoginBonus000017"
+  },
+  {
+    "name": {
+      "id": 18,
+      "str": "でらっくす譜面：taboo tears you up"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10602,
+      "str": "taboo tears you up"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 53,
+    "dataName": "LoginBonus000018"
+  },
+  {
+    "name": {
+      "id": 19,
+      "str": "パートナー：ちびみるく"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 21,
+      "str": "ちびみるく"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "priority": 9,
+    "dataName": "LoginBonus000019"
+  },
+  {
+    "name": {
+      "id": 20,
+      "str": "パートナー：百合咲ミカ"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 22,
+      "str": "百合咲ミカ"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "priority": 10,
+    "dataName": "LoginBonus000020"
+  },
+  {
+    "name": {
+      "id": 21,
+      "str": "でらっくす譜面：セツナトリップ"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10193,
+      "str": "セツナトリップ"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 50,
+    "dataName": "LoginBonus000021"
+  },
+  {
+    "name": {
+      "id": 22,
+      "str": "でらっくす譜面：Grip & Break down !!"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10202,
+      "str": "Grip & Break down !!"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 51,
+    "dataName": "LoginBonus000022"
+  },
+  {
+    "name": {
+      "id": 23,
+      "str": "フレーム：ふたりでばかんすにゃ♪"
+    },
+    "BonusType": 6,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 259505,
+      "str": "ふたりでばかんすにゃ♪"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 72,
+    "dataName": "LoginBonus000023"
+  },
+  {
+    "name": {
+      "id": 24,
+      "str": "パートナー：ラズ（ふぇすてぃばる）"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 23,
+      "str": "ラズ（ふぇすてぃばる）"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 240112,
+      "str": "Net240112"
+    },
+    "priority": 6,
+    "dataName": "LoginBonus000024"
+  },
+  {
+    "name": {
+      "id": 25,
+      "str": "パートナー：シフォン（ふぇすてぃばる）"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 24,
+      "str": "シフォン（ふぇすてぃばる）"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 240112,
+      "str": "Net240112"
+    },
+    "priority": 7,
+    "dataName": "LoginBonus000025"
+  },
+  {
+    "name": {
+      "id": 26,
+      "str": "パートナー：ソルト（ふぇすてぃばる）"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 25,
+      "str": "ソルト（ふぇすてぃばる）"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 240112,
+      "str": "Net240112"
+    },
+    "priority": 8,
+    "dataName": "LoginBonus000026"
+  },
+  {
+    "name": {
+      "id": 27,
+      "str": "でらっくす譜面：M.S.S.Planet"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10316,
+      "str": "M.S.S.Planet"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 41,
+    "dataName": "LoginBonus000027"
+  },
+  {
+    "name": {
+      "id": 28,
+      "str": "でらっくす譜面：響縁"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10404,
+      "str": "響縁"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 42,
+    "dataName": "LoginBonus000028"
+  },
+  {
+    "name": {
+      "id": 29,
+      "str": "アイコン：FESTiVAL"
+    },
+    "BonusType": 5,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 309501,
+      "str": "FESTiVAL"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 5,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 58,
+    "dataName": "LoginBonus000029"
+  },
+  {
+    "name": {
+      "id": 30,
+      "str": "アイコン：Lia=Fail"
+    },
+    "BonusType": 5,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 309502,
+      "str": "Lia=Fail"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 5,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 59,
+    "dataName": "LoginBonus000030"
+  },
+  {
+    "name": {
+      "id": 31,
+      "str": "フレーム：Heavenly Blast"
+    },
+    "BonusType": 6,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 309504,
+      "str": "Heavenly Blast"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 69,
+    "dataName": "LoginBonus000031"
+  },
+  {
+    "name": {
+      "id": 32,
+      "str": "フレーム：sølips"
+    },
+    "BonusType": 6,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 309505,
+      "str": "sølips"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 70,
+    "dataName": "LoginBonus000032"
+  },
+  {
+    "name": {
+      "id": 33,
+      "str": "フレーム：Rainbow Rush Story"
+    },
+    "BonusType": 6,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 309507,
+      "str": "Rainbow Rush Story"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 71,
+    "dataName": "LoginBonus000033"
+  },
+  {
+    "name": {
+      "id": 34,
+      "str": "パートナー：黒姫"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 26,
+      "str": "黒姫"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 5,
+    "dataName": "LoginBonus000034"
+  },
+  {
+    "name": {
+      "id": 35,
+      "str": "でらっくす譜面：深海少女"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10315,
+      "str": "深海少女"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 39,
+    "dataName": "LoginBonus000035"
+  },
+  {
+    "name": {
+      "id": 36,
+      "str": "でらっくす譜面：ナイト・オブ・ナイツ"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10204,
+      "str": "ナイト・オブ・ナイツ"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 40,
+    "dataName": "LoginBonus000036"
+  },
+  {
+    "name": {
+      "id": 37,
+      "str": "フレーム：Tricolor⁂circuS"
+    },
+    "BonusType": 6,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 359504,
+      "str": "Tricolor⁂circuS"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 68,
+    "dataName": "LoginBonus000037"
+  },
+  {
+    "name": {
+      "id": 38,
+      "str": "パートナー：ずんだもん"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 27,
+      "str": "ずんだもん"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 5,
+    "IsRepeatGet": false,
+    "IsCollabo": true,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 2,
+    "dataName": "LoginBonus000038"
+  },
+  {
+    "name": {
+      "id": 39,
+      "str": "パートナー：乙姫（ばでぃーず）"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 28,
+      "str": "乙姫（ばでぃーず）"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 241204,
+      "str": "Net241204"
+    },
+    "priority": 3,
+    "dataName": "LoginBonus000039"
+  },
+  {
+    "name": {
+      "id": 40,
+      "str": "パートナー：らいむっくま＆れもんっくま（ばでぃーず）"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 29,
+      "str": "らいむっくま＆れもんっくま（ばでぃーず）"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 241204,
+      "str": "Net241204"
+    },
+    "priority": 4,
+    "dataName": "LoginBonus000040"
+  },
+  {
+    "name": {
+      "id": 41,
+      "str": "でらっくす譜面：初音ミクの消失"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10411,
+      "str": "初音ミクの消失"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 34,
+    "dataName": "LoginBonus000041"
+  },
+  {
+    "name": {
+      "id": 42,
+      "str": "でらっくす譜面：色は匂へど散りぬるを"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10535,
+      "str": "色は匂へど散りぬるを"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 35,
+    "dataName": "LoginBonus000042"
+  },
+  {
+    "name": {
+      "id": 43,
+      "str": "アイコン：BUDDiES"
+    },
+    "BonusType": 5,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 409501,
+      "str": "BUDDiES"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 5,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 56,
+    "dataName": "LoginBonus000043"
+  },
+  {
+    "name": {
+      "id": 44,
+      "str": "フレーム：mystique as iris"
+    },
+    "BonusType": 6,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 409504,
+      "str": "mystique as iris"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 66,
+    "dataName": "LoginBonus000044"
+  },
+  {
+    "name": {
+      "id": 45,
+      "str": "フレーム：VeRForTe αRtE:VEiN"
+    },
+    "BonusType": 6,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 409505,
+      "str": "VeRForTe αRtE:VEiN"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 67,
+    "dataName": "LoginBonus000045"
+  },
+  {
+    "name": {
+      "id": 48,
+      "str": "パートナー：ラズ（ばでぃーず）"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 30,
+      "str": "ラズ（ばでぃーず）"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 25061172,
+      "str": "250611_07_2：すたんぷカード解禁_修正版《【ST&DX】ハッピーシンセサイザ、【DX譜面】御旗のもとに\u3000+コレクション》"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "priority": 1,
+    "dataName": "LoginBonus000048"
+  },
+  {
+    "name": {
+      "id": 49,
+      "str": "でらっくす譜面：ハッピーシンセサイザ"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10044,
+      "str": "ハッピーシンセサイザ"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 25061172,
+      "str": "250611_07_2：すたんぷカード解禁_修正版《【ST&DX】ハッピーシンセサイザ、【DX譜面】御旗のもとに\u3000+コレクション》"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "priority": 25,
+    "dataName": "LoginBonus000049"
+  },
+  {
+    "name": {
+      "id": 50,
+      "str": "でらっくす譜面：sweet little sister"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10225,
+      "str": "sweet little sister"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 25110571,
+      "str": "251105_07_1：すたんぷカード解禁《【DX譜面】sweet little sister》"
+    },
+    "netOpenName": {
+      "id": 251105,
+      "str": "Net251105"
+    },
+    "priority": 26,
+    "dataName": "LoginBonus000050"
+  },
+  {
+    "name": {
+      "id": 51,
+      "str": "ネームプレート：Swift Swing"
+    },
+    "BonusType": 4,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 459501,
+      "str": "Swift Swing"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 25061172,
+      "str": "250611_07_2：すたんぷカード解禁_修正版《【ST&DX】ハッピーシンセサイザ、【DX譜面】御旗のもとに\u3000+コレクション》"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "priority": 62,
+    "dataName": "LoginBonus000051"
+  },
+  {
+    "name": {
+      "id": 52,
+      "str": "フレーム：Latent Kingdom"
+    },
+    "BonusType": 6,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 459504,
+      "str": "Latent Kingdom"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 25061172,
+      "str": "250611_07_2：すたんぷカード解禁_修正版《【ST&DX】ハッピーシンセサイザ、【DX譜面】御旗のもとに\u3000+コレクション》"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "priority": 65,
+    "dataName": "LoginBonus000052"
+  },
+  {
+    "name": {
+      "id": 53,
+      "str": "パートナー：ソルト（ぷりずむ）"
+    },
+    "BonusType": 0,
+    "PartnerId": {
+      "id": 31,
+      "str": "ソルト（ぷりずむ）"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 25122471,
+      "str": "251224_07_1：すたんぷカード解禁5（2曲）+コレクション《【DX譜面】One Step Ahead、【DX譜面】LANCE》"
+    },
+    "netOpenName": {
+      "id": 251224,
+      "str": "Net251224"
+    },
+    "priority": 0,
+    "dataName": "LoginBonus000053"
+  },
+  {
+    "name": {
+      "id": 54,
+      "str": "でらっくす譜面：One Step Ahead"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10375,
+      "str": "One Step Ahead"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 25122471,
+      "str": "251224_07_1：すたんぷカード解禁5（2曲）+コレクション《【DX譜面】One Step Ahead、【DX譜面】LANCE》"
+    },
+    "netOpenName": {
+      "id": 251224,
+      "str": "Net251224"
+    },
+    "priority": 20,
+    "dataName": "LoginBonus000054"
+  },
+  {
+    "name": {
+      "id": 55,
+      "str": "でらっくす譜面：天狗の落とし文 feat. ｙｔｒ"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10699,
+      "str": "天狗の落とし文 feat. ｙｔｒ"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 26032571,
+      "str": "260325_07_1：すたんぷカード解禁7（2曲）《【DX譜面】天狗の落とし文 feat. ｙｔｒ、HYP3RTRIBE》"
+    },
+    "netOpenName": {
+      "id": 260325,
+      "str": "Net260325"
+    },
+    "priority": 21,
+    "dataName": "LoginBonus000055"
+  },
+  {
+    "name": {
+      "id": 56,
+      "str": "アイコン：PRiSM"
+    },
+    "BonusType": 5,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 509501,
+      "str": "PRiSM"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 5,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 25122471,
+      "str": "251224_07_1：すたんぷカード解禁5（2曲）+コレクション《【DX譜面】One Step Ahead、【DX譜面】LANCE》"
+    },
+    "netOpenName": {
+      "id": 251224,
+      "str": "Net251224"
+    },
+    "priority": 54,
+    "dataName": "LoginBonus000056"
+  },
+  {
+    "name": {
+      "id": 57,
+      "str": "ネームプレート：QuiQ"
+    },
+    "BonusType": 4,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 509501,
+      "str": "QuiQ"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 25122471,
+      "str": "251224_07_1：すたんぷカード解禁5（2曲）+コレクション《【DX譜面】One Step Ahead、【DX譜面】LANCE》"
+    },
+    "netOpenName": {
+      "id": 251224,
+      "str": "Net251224"
+    },
+    "priority": 61,
+    "dataName": "LoginBonus000057"
+  },
+  {
+    "name": {
+      "id": 58,
+      "str": "フレーム：Valsqotch"
+    },
+    "BonusType": 6,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 509504,
+      "str": "Valsqotch"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 25122471,
+      "str": "251224_07_1：すたんぷカード解禁5（2曲）+コレクション《【DX譜面】One Step Ahead、【DX譜面】LANCE》"
+    },
+    "netOpenName": {
+      "id": 251224,
+      "str": "Net251224"
+    },
+    "priority": 64,
+    "dataName": "LoginBonus000058"
+  },
+  {
+    "name": {
+      "id": 501,
+      "str": "スタンダード譜面：Halcyon"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 1085,
+      "str": "Halcyon"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 240606,
+      "str": "Net240606"
+    },
+    "priority": 43,
+    "dataName": "LoginBonus000501"
+  },
+  {
+    "name": {
+      "id": 502,
+      "str": "スタンダード譜面：サンバランド"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 1081,
+      "str": "サンバランド"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 250115,
+      "str": "Net250115"
+    },
+    "priority": 44,
+    "dataName": "LoginBonus000502"
+  },
+  {
+    "name": {
+      "id": 503,
+      "str": "でらっくす譜面：Starlight Disco"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10145,
+      "str": "Starlight Disco"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 250115,
+      "str": "Net250115"
+    },
+    "priority": 45,
+    "dataName": "LoginBonus000503"
+  },
+  {
+    "name": {
+      "id": 504,
+      "str": "でらっくす譜面：火炎地獄"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10235,
+      "str": "火炎地獄"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 250305,
+      "str": "Net250305"
+    },
+    "priority": 46,
+    "dataName": "LoginBonus000504"
+  },
+  {
+    "name": {
+      "id": 505,
+      "str": "スタンダード譜面：VIIIbit Explorer"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 1235,
+      "str": "VIIIbit Explorer"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "priority": 47,
+    "dataName": "LoginBonus000505"
+  },
+  {
+    "name": {
+      "id": 506,
+      "str": "でらっくす譜面：Maxi"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10625,
+      "str": "Maxi"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 999,
+      "str": "Net990101"
+    },
+    "priority": 48,
+    "dataName": "LoginBonus000506"
+  },
+  {
+    "name": {
+      "id": 507,
+      "str": "でらっくす譜面：ケロ⑨destiny"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10302,
+      "str": "ケロ⑨destiny"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 240412,
+      "str": "Net240412"
+    },
+    "priority": 49,
+    "dataName": "LoginBonus000507"
+  },
+  {
+    "name": {
+      "id": 508,
+      "str": "でらっくす譜面：Latent Kingdom"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 11612,
+      "str": "Latent Kingdom"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 241204,
+      "str": "Net241204"
+    },
+    "priority": 33,
+    "dataName": "LoginBonus000508"
+  },
+  {
+    "name": {
+      "id": 601,
+      "str": "でらっくす譜面：BULK UP (GAME EXCLUSIVE EDIT)"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 11594,
+      "str": "BULK UP (GAME EXCLUSIVE EDIT)"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 240724,
+      "str": "Net240724"
+    },
+    "priority": 36,
+    "dataName": "LoginBonus000601"
+  },
+  {
+    "name": {
+      "id": 602,
+      "str": "でらっくす譜面：Monochrome Rainbow"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10251,
+      "str": "Monochrome Rainbow"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 240904,
+      "str": "Net240904"
+    },
+    "priority": 37,
+    "dataName": "LoginBonus000602"
+  },
+  {
+    "name": {
+      "id": 603,
+      "str": "でらっくす譜面：Selector"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10574,
+      "str": "Selector"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 241016,
+      "str": "Net241016"
+    },
+    "priority": 38,
+    "dataName": "LoginBonus000603"
+  },
+  {
+    "name": {
+      "id": 604,
+      "str": "アイコン：FESTiVAL ラズ＆シフォン＆ソルト"
+    },
+    "BonusType": 5,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 309503,
+      "str": "FESTiVAL ラズ＆シフォン＆ソルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 5,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 240606,
+      "str": "Net240606"
+    },
+    "priority": 57,
+    "dataName": "LoginBonus000604"
+  },
+  {
+    "name": {
+      "id": 605,
+      "str": "でらっくす譜面：oboro"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10366,
+      "str": "oboro"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 250115,
+      "str": "Net250115"
+    },
+    "priority": 30,
+    "dataName": "LoginBonus000605"
+  },
+  {
+    "name": {
+      "id": 606,
+      "str": "でらっくす譜面：ナミダと流星"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10242,
+      "str": "ナミダと流星"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 250115,
+      "str": "Net250115"
+    },
+    "priority": 31,
+    "dataName": "LoginBonus000606"
+  },
+  {
+    "name": {
+      "id": 607,
+      "str": "スタンダード譜面：渦状銀河のシンフォニエッタ"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 1103,
+      "str": "渦状銀河のシンフォニエッタ"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 0,
+      "str": "解放なし"
+    },
+    "netOpenName": {
+      "id": 250305,
+      "str": "Net250305"
+    },
+    "priority": 32,
+    "dataName": "LoginBonus000607"
+  },
+  {
+    "name": {
+      "id": 608,
+      "str": "でらっくす譜面：御旗のもとに"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10128,
+      "str": "御旗のもとに"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 25061172,
+      "str": "250611_07_2：すたんぷカード解禁_修正版《【ST&DX】ハッピーシンセサイザ、【DX譜面】御旗のもとに\u3000+コレクション》"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "priority": 27,
+    "dataName": "LoginBonus000608"
+  },
+  {
+    "name": {
+      "id": 609,
+      "str": "でらっくす譜面：炎歌 -ほむらうた-"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10117,
+      "str": "炎歌 -ほむらうた-"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 25071671,
+      "str": "250716_07_1：すたんぷカード解禁《【DX譜面】炎歌 -ほむらうた-》"
+    },
+    "netOpenName": {
+      "id": 250716,
+      "str": "Net250716"
+    },
+    "priority": 28,
+    "dataName": "LoginBonus000609"
+  },
+  {
+    "name": {
+      "id": 610,
+      "str": "でらっくす譜面：華の集落、秋のお届け"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 11301,
+      "str": "華の集落、秋のお届け"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 25092471,
+      "str": "250924_07_1：すたんぷカード解禁《【ST譜面】華の集落、秋のお届け》"
+    },
+    "netOpenName": {
+      "id": 250924,
+      "str": "Net250924"
+    },
+    "priority": 29,
+    "dataName": "LoginBonus000610"
+  },
+  {
+    "name": {
+      "id": 611,
+      "str": "アイコン：BUDDiES 乙姫＆ラズ"
+    },
+    "BonusType": 5,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 409507,
+      "str": "BUDDiES 乙姫＆ラズ"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 25061172,
+      "str": "250611_07_2：すたんぷカード解禁_修正版《【ST&DX】ハッピーシンセサイザ、【DX譜面】御旗のもとに\u3000+コレクション》"
+    },
+    "netOpenName": {
+      "id": 250611,
+      "str": "Net250611"
+    },
+    "priority": 55,
+    "dataName": "LoginBonus000611"
+  },
+  {
+    "name": {
+      "id": 612,
+      "str": "でらっくす譜面：LANCE"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10422,
+      "str": "LANCE"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 25122471,
+      "str": "251224_07_1：すたんぷカード解禁5（2曲）+コレクション《【DX譜面】One Step Ahead、【DX譜面】LANCE》"
+    },
+    "netOpenName": {
+      "id": 251224,
+      "str": "Net251224"
+    },
+    "priority": 22,
+    "dataName": "LoginBonus000612"
+  },
+  {
+    "name": {
+      "id": 613,
+      "str": "でらっくす譜面：HYP3RTRIBE"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 11790,
+      "str": "HYP3RTRIBE"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 26032571,
+      "str": "260325_07_1：すたんぷカード解禁7（2曲）《【DX譜面】天狗の落とし文 feat. ｙｔｒ、HYP3RTRIBE》"
+    },
+    "netOpenName": {
+      "id": 260325,
+      "str": "Net260325"
+    },
+    "priority": 23,
+    "dataName": "LoginBonus000613"
+  },
+  {
+    "name": {
+      "id": 614,
+      "str": "でらっくす譜面：Imitation:Loud Lounge"
+    },
+    "BonusType": 2,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 10493,
+      "str": "Imitation:Loud Lounge"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 0,
+      "str": "使用しない"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": false,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 26042871,
+      "str": "260428_07_1：すたんぷカード解禁（1曲）《【DX譜面】Imitation:Loud Lounge》"
+    },
+    "netOpenName": {
+      "id": 260428,
+      "str": "Net260428"
+    },
+    "priority": 24,
+    "dataName": "LoginBonus000614"
+  },
+  {
+    "name": {
+      "id": 999,
+      "str": "ちほー進行1.5倍チケット"
+    },
+    "BonusType": 7,
+    "PartnerId": {
+      "id": 1,
+      "str": "でらっくま"
+    },
+    "CharacterId": {
+      "id": 101,
+      "str": "でらっくま"
+    },
+    "MusicId": {
+      "id": 0,
+      "str": "【使用禁止】チュートリアル（既存）"
+    },
+    "TitleId": {
+      "id": 1,
+      "str": "新人出道"
+    },
+    "PlateId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "IconId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "FrameId": {
+      "id": 1,
+      "str": "デフォルト"
+    },
+    "TicketId": {
+      "id": 11001,
+      "str": "無料1.5倍チケット"
+    },
+    "maxPoint": 10,
+    "IsRepeatGet": true,
+    "IsCollabo": false,
+    "OpenEventId": {
+      "id": 1,
+      "str": "無期限常時解放"
+    },
+    "netOpenName": {
+      "id": 230608,
+      "str": "Net230608"
+    },
+    "priority": 77,
+    "dataName": "LoginBonus000999"
+  }
+]
